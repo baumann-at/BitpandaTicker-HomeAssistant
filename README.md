@@ -7,4 +7,9 @@ Step 2: Add the configuration entries to your configuration.yaml under section "
 
 Step 3: Add a section to a HA dashboard (example see dashboard.yaml)
 
+![Overview](images/HA_Dashboard_Bitpanda_Overview.png)
+
+![Detail](images/HA_Dashboard_Bitpanda_Detail.png)
+
 Enjoy ;-)
+
