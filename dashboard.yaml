@@ -1,0 +1,40 @@
+type: grid
+cards:
+  - type: heading
+    heading: Bitpanda
+  - graph: line
+    type: sensor
+    entity: sensor.bp_btc_eur
+    detail: 1
+    hours_to_show: 240
+  - graph: line
+    type: sensor
+    entity: sensor.bp_eth_eur
+    detail: 1
+    hours_to_show: 240
+  - graph: line
+    type: sensor
+    entity: sensor.bp_xrp_eur
+    detail: 1
+    hours_to_show: 240
+  - graph: line
+    type: sensor
+    entity: sensor.bp_xlm_eur
+    detail: 1
+    hours_to_show: 240
+  - graph: line
+    type: sensor
+    entity: sensor.bp_sol_eur
+    detail: 1
+    hours_to_show: 240
+  - graph: line
+    type: sensor
+    entity: sensor.bp_hbar_eur
+    detail: 1
+    hours_to_show: 240
+  - graph: line
+    type: sensor
+    entity: sensor.bp_xau_eur
+    detail: 1
+    hours_to_show: 240
+column_span: 1
